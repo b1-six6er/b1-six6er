@@ -1,4 +1,12 @@
-## Hi there 👋
+*hi*
+i am *flow*
+i study *physics*
+i like *guitars*
+i ride a *honda*
+i watch *anime*
+
+**i wanna code**
+
 
 <!--
 **b1-six6er/b1-six6er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
