@@ -1,11 +1,12 @@
-*hi*
-i am *flow*
-i study *physics*
-i like *guitars*
-i ride a *honda*
-i watch *anime*
+**hi**
 
-**i wanna code**
+- i am **flow**
+- i study **physics**
+- i like **guitars**
+- i ride a **honda**
+- i watch **anime**
+
+*i wanna code*
 
 
 <!--
